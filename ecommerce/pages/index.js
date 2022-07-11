@@ -6,7 +6,7 @@ const Home = () => {
       HeroBanner
 
       <div className='products-heading'>
-        <h2>Beset Selling Products</h2>
+        <h2>Beset Selling Products hi</h2>
         <p>Speakers of many variations</p>
       </div>
 
